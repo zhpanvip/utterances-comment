@@ -1,3 +1,3 @@
 # utterances-comment
 
-Comment zone of [my blog](https://zhangpan.site)
+Comment zone of [my blog](https://zhpanvip.gitee.io)
